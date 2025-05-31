@@ -1,0 +1,11 @@
+C:\Users\rober\OneDrive\Área de Trabalho\Aula_ZATEC\calculadora2\calculadora2\bin\Debug\calculadora2.exe.config
+C:\Users\rober\OneDrive\Área de Trabalho\Aula_ZATEC\calculadora2\calculadora2\bin\Debug\calculadora2.exe
+C:\Users\rober\OneDrive\Área de Trabalho\Aula_ZATEC\calculadora2\calculadora2\bin\Debug\calculadora2.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\Aula_ZATEC\calculadora2\calculadora2\obj\Debug\calculadora2.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Área de Trabalho\Aula_ZATEC\calculadora2\calculadora2\obj\Debug\calculadora2.Form1.resources
+C:\Users\rober\OneDrive\Área de Trabalho\Aula_ZATEC\calculadora2\calculadora2\obj\Debug\calculadora2.Properties.Resources.resources
+C:\Users\rober\OneDrive\Área de Trabalho\Aula_ZATEC\calculadora2\calculadora2\obj\Debug\calculadora2.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Área de Trabalho\Aula_ZATEC\calculadora2\calculadora2\obj\Debug\calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\Aula_ZATEC\calculadora2\calculadora2\obj\Debug\calculadora2.exe
+C:\Users\rober\OneDrive\Área de Trabalho\Aula_ZATEC\calculadora2\calculadora2\obj\Debug\calculadora2.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\Aula_ZATEC\calculadora2\calculadora2\obj\Debug\calculadora2.exe.config
